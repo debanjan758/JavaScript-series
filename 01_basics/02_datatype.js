@@ -19,4 +19,4 @@ let IsLoggedin= true
 
 
 // object
-console.log(typeof "Debanjan");
+console.log(typeof IsLoggedin);
