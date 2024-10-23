@@ -36,3 +36,19 @@ console.log(typeof BigNumber);
 console.log(typeof myFunction);
 console.log(typeof Objects);
 console.log(typeof heros);
+
+
+// *******************************************************************
+
+
+// stack(primitive), heap(non-primitive)
+
+let myYoutube = "techbecheta"
+
+let anothername = myYoutube
+anothername = "chaiwalacoder"
+
+console.log(myYoutube);
+console.log(anothername);
+
+
